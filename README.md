@@ -1,2 +1,2 @@
-# tic-tac-toa-ai
+# Tic Tac Toe AI
 An unbeatable Tic Tac Toe playing AI
